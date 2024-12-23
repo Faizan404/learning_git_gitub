@@ -7,3 +7,7 @@ setTimeout(() => {
 
 console.log("Phase 3 Testing! ");
 
+const calcAge = function(birthYear){
+    return 2024 - birthYear;
+}
+console.log(calcAge(1995));
