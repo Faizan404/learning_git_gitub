@@ -1,5 +1,5 @@
 Learning to code
-Han bai kya hal he bhaiya
+Hello World
 
-Bhanchoo kab tak aapko code karne mein time lagega
+I'm currently on dev-faizan branch
 added a new feature to the code
